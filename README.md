@@ -48,12 +48,12 @@ Here is the list of components, hardware, and materials required to build this p
 
 | Item | Component / Part | Description | Qty | Est. Cost | Source / Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1** | MACROPAD PCB-PTH_Y3 | The PCB | 3 | $\$7.80 | [Link](https://cart.jlcpcb.com/shopcart/cartEdit/?id=4c4162048d664ba7a7ae664a28d13e49&type=1&changeType=1&achieveDate=48) |
-| **2** | Estardyn RP2040-Zero RP2040 for Raspberry Pi Microcontroller PICO Development Board Module Dual-Core 2MB Flash |A raspberry pi for my macropad. | 1 | $\$6.71 | [Link](https://www.aliexpress.us/item/3256811972442631.html) |
-| **3** |20-100pc Mechanical Keyboard Switches Blue Red Brown Switch Customizable Hot-Swappable 3 Pins Cross Stem for Mechanical Keyboard |Keyswitches for the Macropad | 1 | $\$0.99$| [Link](https://www.aliexpress.us/item/3256811652574937.html) |
-| **4** | 10Pcs/lot M2 M2.5 M3 M3.5 M4 M5 M6 TM Screws Phillips Truss Mushroom Head Screw Black Plated Electronic Carbon Steel Screws| For the PCB to hold in place.| 1 | $\$1.57 | [Link](https://www.aliexpress.us/item/32568019372843219.html) |
-| **5** | 100PCS/LOT D0-35 1N4148 High-speed Switching Diodes | For the PCB | 1 | $\$1.14 | [Link](https://www.aliexpress.us/item/3256802153601411.html) |
-| **6** | N3UD 20Pcs PBT Blank Keycap 1U 1X XDA Profile No Print Keycap Set for DIY Mechanical Keyboard Installation MX Switches | Keycaps for the switches | 2 | $\$0.99 | [Link](https://www.aliexpress.us/item/3256802153601411.html) |
+| **1** | MACROPAD PCB-PTH_Y3 | The PCB | 3 | \$7.80 | [Link](https://cart.jlcpcb.com/shopcart/cartEdit/?id=4c4162048d664ba7a7ae664a28d13e49&type=1&changeType=1&achieveDate=48) |
+| **2** | Estardyn RP2040-Zero RP2040 for Raspberry Pi Microcontroller PICO Development Board Module Dual-Core 2MB Flash |A raspberry pi for my macropad. | 1 | \$6.71 | [Link](https://www.aliexpress.us/item/3256811972442631.html) |
+| **3** |20-100pc Mechanical Keyboard Switches Blue Red Brown Switch Customizable Hot-Swappable 3 Pins Cross Stem for Mechanical Keyboard |Keyswitches for the Macropad | 1 | \$0.99| [Link](https://www.aliexpress.us/item/3256811652574937.html) |
+| **4** | 10Pcs/lot M2 M2.5 M3 M3.5 M4 M5 M6 TM Screws Phillips Truss Mushroom Head Screw Black Plated Electronic Carbon Steel Screws| For the PCB to hold in place.| 1 | \$1.57 | [Link](https://www.aliexpress.us/item/32568019372843219.html) |
+| **5** | 100PCS/LOT D0-35 1N4148 High-speed Switching Diodes | For the PCB | 1 | \$1.14 | [Link](https://www.aliexpress.us/item/3256802153601411.html) |
+| **6** | N3UD 20Pcs PBT Blank Keycap 1U 1X XDA Profile No Print Keycap Set for DIY Mechanical Keyboard Installation MX Switches | Keycaps for the switches | 2 | \$0.99 | [Link](https://www.aliexpress.us/item/3256802153601411.html) |
 
 
 
