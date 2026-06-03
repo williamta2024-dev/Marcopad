@@ -41,4 +41,16 @@ A custom-built, programmable 16-key mechanical macropad powered by the RP2040 ZE
 
 ### 3D Design
 <img width="1253" height="1133" alt="image" src="https://github.com/user-attachments/assets/79a68ef5-7564-45c8-b953-bd5019df22f8" />
+## Bill of Materials (BOM)
+
+Here is the list of components, hardware, and materials required to build this project:
+
+
+| Item | Component / Part | Description | Qty | Est. Cost | Source / Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1** | MACROPAD PCB-PTH_Y3 | The PCB |  | $\$7.80$ | [Link](https://cart.jlcpcb.com/shopcart/cartEdit/?id=4c4162048d664ba7a7ae664a28d13e49&type=1&changeType=1&achieveDate=48) |
+| **2** | [Part Name/Model] | Short description of part function | 2 | $\$0.00$ | [Link](url) |
+
+
+
 
